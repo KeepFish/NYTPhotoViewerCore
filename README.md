@@ -3,4 +3,6 @@ Remove PINRemoteImage from [NYTPhotoViewer](https://github.com/nytimes/NYTPhotoV
 
 Carthage
 
-`github "NYTimes/NYTPhotoViewer"`
+`github "KeepFish/NYTPhotoViewerCore"`
+
+Same usage as NYTPhotoViewer
